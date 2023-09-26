@@ -73,6 +73,12 @@ RNF-003:Possuir um sistema de pagamento compatível com o pix.    Alta
 Wireframes
 [wireframeti1.pdf](https://github.com/guimeyer2/ti1/files/12720852/wireframeti1.pdf)
 
+![Captura de Tela (161)](https://github.com/guimeyer2/ti1/assets/130676425/28137c30-b208-4556-8d0b-cbf1b19ae6e4)
+![Captura de Tela (160)](https://github.com/guimeyer2/ti1/assets/130676425/33a09041-fde4-4cf2-bd8c-f3487cb3316c)
+![Captura de Tela (164)](https://github.com/guimeyer2/ti1/assets/130676425/934bab90-02cb-4023-956b-1b4e2f1f4505)
+![Captura de Tela (163)](https://github.com/guimeyer2/ti1/assets/130676425/b46693e3-abb8-48c5-8add-6c7b5be13cd0)
+![Captura de Tela (162)](https://github.com/guimeyer2/ti1/assets/130676425/5dde2493-fb27-47ff-a78d-bb2355dfda5d)
+
 Metodologia
 
 Ferramentas
