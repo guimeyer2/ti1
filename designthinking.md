@@ -10,3 +10,4 @@
 
 
 [PPLCC-M_-_G5_-_Dificuldade_de_marcar_peladas.pdf](https://github.com/guimeyer2/ti1/files/12721027/PPLCC-M_-_G5_-_Dificuldade_de_marcar_peladas.pdf)
+https://miro.com/app/board/uXjVMoAxlCo=/?share_link_id=425040190851
