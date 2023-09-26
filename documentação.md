@@ -16,7 +16,6 @@ Rodrigo Costa
 
 
 Contexto
-Detalhes sobre o espaço de problema, justificativas e os objetivos do projeto.
 
 Problema
 Por ser um esporte muito popular, muitas pessoas têm interesse em jogar futebol de forma
